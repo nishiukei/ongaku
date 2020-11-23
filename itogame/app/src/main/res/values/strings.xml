@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">itogame</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="start">始める</string>
+    <string name="next_input">次の人</string>
+
+    <string name="itoapp">itoアプリ</string>
+    <string name="return_btn">トップ画面へ</string>
+    <string name="input_name">参加する人の名前を入力してください</string>
+    <string name="number_know">は、ボタンを押して番号を確認してください</string>
+    <string name="number_know_btn">番号を確認する</string>
+    <string name="think">こちらの番号のに当てはまるものを考えてください</string>
+    <string name="next_player">次の人に回す</string>
+    <string name="name_input_box">Name</string>
+    <string name="finish_players">この人たちで始める</string>
+    <string name="max_note">最大で５人までです。</string>
+</resources>
